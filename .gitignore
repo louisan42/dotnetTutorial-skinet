@@ -1,0 +1,5 @@
+obj
+bin
+*Zone.Identifier
+appsettings.json
+*.db
